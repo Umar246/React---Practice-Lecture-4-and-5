@@ -1,0 +1,17 @@
+.card {
+    min-height: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    
+
+    .WhatsApp{
+        color: #63c401;
+    }
+    #myEmail,#myNum,#address{
+        text-decoration: none;
+        color: black;
+       
+    }
+}
